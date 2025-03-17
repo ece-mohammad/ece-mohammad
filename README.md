@@ -9,7 +9,7 @@
 <!-- - ⚡ Fun fact: There are multiple types of mint: spearmint, pepper mint, wild mint, and many more. In fact, there are over 7000 varieties of mint. -->
 
 <h1 align="center">Hi 👋, I'm Mohammad Mohsen</h1>
-<h3 align="center">A passionate embedded systems engineer, and python enthusiast.</h3>
+<h3 align="center">A software engineer, with a passion for python, backend development and IoT systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ece-mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="ece-mohammad" /> </p>
 
